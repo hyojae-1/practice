@@ -1,0 +1,6 @@
+StringHelperTest.EmptyString 1 0.00445958
+StringHelperTest.GeneralString 1 0.00421201
+StringHelperTest.SpecialCharacters 1 0.00439149
+StringHelperTest.LongString 1 0.00413053
+StringHelperTest.ContainsTest 1 0.00286659
+---

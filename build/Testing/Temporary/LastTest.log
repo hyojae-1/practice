@@ -1,0 +1,138 @@
+Start testing: May 13 19:24 KST
+----------------------------------------------------------
+1/5 Testing: StringHelperTest.EmptyString
+1/5 Test: StringHelperTest.EmptyString
+Command: "/home/hyo/StringHelper/build/StringHelper_test" "--gtest_filter=StringHelperTest.EmptyString" "--gtest_also_run_disabled_tests"
+Directory: /home/hyo/StringHelper/build
+"StringHelperTest.EmptyString" start time: May 13 19:24 KST
+Output:
+----------------------------------------------------------
+Running main() from /home/hyo/StringHelper/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelperTest.EmptyString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelperTest
+[ RUN      ] StringHelperTest.EmptyString
+[       OK ] StringHelperTest.EmptyString (0 ms)
+[----------] 1 test from StringHelperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelperTest.EmptyString" end time: May 13 19:24 KST
+"StringHelperTest.EmptyString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: StringHelperTest.GeneralString
+2/5 Test: StringHelperTest.GeneralString
+Command: "/home/hyo/StringHelper/build/StringHelper_test" "--gtest_filter=StringHelperTest.GeneralString" "--gtest_also_run_disabled_tests"
+Directory: /home/hyo/StringHelper/build
+"StringHelperTest.GeneralString" start time: May 13 19:24 KST
+Output:
+----------------------------------------------------------
+Running main() from /home/hyo/StringHelper/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelperTest.GeneralString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelperTest
+[ RUN      ] StringHelperTest.GeneralString
+[       OK ] StringHelperTest.GeneralString (0 ms)
+[----------] 1 test from StringHelperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelperTest.GeneralString" end time: May 13 19:24 KST
+"StringHelperTest.GeneralString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: StringHelperTest.SpecialCharacters
+3/5 Test: StringHelperTest.SpecialCharacters
+Command: "/home/hyo/StringHelper/build/StringHelper_test" "--gtest_filter=StringHelperTest.SpecialCharacters" "--gtest_also_run_disabled_tests"
+Directory: /home/hyo/StringHelper/build
+"StringHelperTest.SpecialCharacters" start time: May 13 19:24 KST
+Output:
+----------------------------------------------------------
+Running main() from /home/hyo/StringHelper/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelperTest.SpecialCharacters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelperTest
+[ RUN      ] StringHelperTest.SpecialCharacters
+[       OK ] StringHelperTest.SpecialCharacters (0 ms)
+[----------] 1 test from StringHelperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelperTest.SpecialCharacters" end time: May 13 19:24 KST
+"StringHelperTest.SpecialCharacters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: StringHelperTest.LongString
+4/5 Test: StringHelperTest.LongString
+Command: "/home/hyo/StringHelper/build/StringHelper_test" "--gtest_filter=StringHelperTest.LongString" "--gtest_also_run_disabled_tests"
+Directory: /home/hyo/StringHelper/build
+"StringHelperTest.LongString" start time: May 13 19:24 KST
+Output:
+----------------------------------------------------------
+Running main() from /home/hyo/StringHelper/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelperTest.LongString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelperTest
+[ RUN      ] StringHelperTest.LongString
+[       OK ] StringHelperTest.LongString (0 ms)
+[----------] 1 test from StringHelperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelperTest.LongString" end time: May 13 19:24 KST
+"StringHelperTest.LongString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: StringHelperTest.ContainsTest
+5/5 Test: StringHelperTest.ContainsTest
+Command: "/home/hyo/StringHelper/build/StringHelper_test" "--gtest_filter=StringHelperTest.ContainsTest" "--gtest_also_run_disabled_tests"
+Directory: /home/hyo/StringHelper/build
+"StringHelperTest.ContainsTest" start time: May 13 19:24 KST
+Output:
+----------------------------------------------------------
+Running main() from /home/hyo/StringHelper/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelperTest.ContainsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelperTest
+[ RUN      ] StringHelperTest.ContainsTest
+[       OK ] StringHelperTest.ContainsTest (0 ms)
+[----------] 1 test from StringHelperTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelperTest.ContainsTest" end time: May 13 19:24 KST
+"StringHelperTest.ContainsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 19:24 KST
