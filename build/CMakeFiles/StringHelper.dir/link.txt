@@ -1,2 +1,0 @@
-/usr/bin/ar qc libStringHelper.a CMakeFiles/StringHelper.dir/src/StringHelper.cc.o
-/usr/bin/ranlib libStringHelper.a

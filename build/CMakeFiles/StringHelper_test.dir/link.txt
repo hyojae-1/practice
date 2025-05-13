@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/StringHelper_test.dir/test/StringHelper_test.cc.o -o StringHelper_test  lib/libgtest_main.a libStringHelper.a lib/libgtest.a 

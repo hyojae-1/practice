@@ -1,3 +1,0 @@
-/home/hyo/StringHelper/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/home/hyo/StringHelper/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/hyo/StringHelper/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
